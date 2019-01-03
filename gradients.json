@@ -1340,4 +1340,8 @@
         "name": "Grade Grey",
         "colors": ["#bdc3c7","#2c3e50"]
     }
+  {
+        "name": "ch_abid",
+        "colors": ["#bac2c6","#1b4e84"]
+    }
 ]
